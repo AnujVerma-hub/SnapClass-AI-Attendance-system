@@ -20,4 +20,4 @@ pillow
 
 
 librosa
-resemblyszer
+resemblyzer
