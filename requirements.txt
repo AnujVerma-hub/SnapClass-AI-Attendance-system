@@ -1,5 +1,5 @@
 streamlit
-setuptools
+setuptools==69.5.1
 # utilities 
 numpy
 pandas 
