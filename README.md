@@ -1,1 +1,1 @@
-# SnapClass-AI-Attendance-system
+# SnapClass-AI Attendance-system
