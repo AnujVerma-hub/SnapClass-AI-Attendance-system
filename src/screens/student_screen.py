@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-from src.ui.base_layout import style_base_layout_dashboard,style_base_layout
+from src.ui.base_layout import style_background_dashboard,style_base_layout
 from src.components.header import header_dashboard
 from src.pipelines.face_pipeline import predict_attendance, get_face_embeddings, train_classifier
 from src.pipelines.voice_pipeline import create_voice_embeddings
