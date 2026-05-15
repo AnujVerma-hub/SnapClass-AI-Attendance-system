@@ -87,7 +87,7 @@ def student_dashboard():
 
 def student_screen():
     
-    style_base_layout_dashboard()
+    style_background_dashboard()
     style_base_layout()
 
     if 'student_data' in st.session_state:
