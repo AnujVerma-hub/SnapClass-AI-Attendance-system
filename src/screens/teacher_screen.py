@@ -1,5 +1,5 @@
 import streamlit as st
-from src.ui.base_layout import style_base_layout_dashboard,style_base_layout
+from src.ui.base_layout import style_background_dashboard,style_base_layout
 from src.components.header import header_dashboard
 from src.database.db import check_teacher_exists,create_teacher, teacher_login, get_teacher_subjects, get_attendance_for_teacher
 from src.components.dailog_create_subjects import create_subject_dialog
