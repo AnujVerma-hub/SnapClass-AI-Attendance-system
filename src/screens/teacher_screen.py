@@ -17,7 +17,7 @@ from datetime import datetime
 
 def teacher_screen():
 
-    style_base_layout_dashboard()
+    style_background_dashboard()
     style_base_layout()
 
     
