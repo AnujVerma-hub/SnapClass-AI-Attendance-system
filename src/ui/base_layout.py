@@ -65,6 +65,11 @@ def style_base_layout():
                 border-radius: 1.5rem !important;
                 padding: 1.5rem !important;
             }
+            [data-testid="stDialog"] h2 {
+                font-family: 'Climate Crisis', sans-serif !important;
+                color: #1a1a1a !important;
+                font-size: 1.5rem !important;
+            }
 
             h1 {
                 font-family: 'Climate Crisis', sans-serif !important;
