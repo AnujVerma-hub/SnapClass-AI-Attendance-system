@@ -60,6 +60,12 @@ def style_base_layout():
                 font-family: 'Outfit', sans-serif !important;
             }
 
+            [data-testid="stDialog"] > div > div {
+                background-color: white !important;
+                border-radius: 1.5rem !important;
+                padding: 1.5rem !important;
+            }
+
             h1 {
                 font-family: 'Climate Crisis', sans-serif !important;
                 font-size: 3.5rem !important;
