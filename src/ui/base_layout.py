@@ -76,6 +76,12 @@ def style_base_layout():
                 color: #1a1a1a !important;
             }
 
+            [data-testid="stSelectbox"] label p {
+                color: #1a1a1a !important;
+                font-family: 'Outfit', sans-serif !important;
+                font-size: 1rem !important;
+            }
+
             h1 {
                 font-family: 'Climate Crisis', sans-serif !important;
                 font-size: 3.5rem !important;
