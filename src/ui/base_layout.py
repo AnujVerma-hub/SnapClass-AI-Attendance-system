@@ -71,6 +71,11 @@ def style_base_layout():
                 font-size: 1.5rem !important;
             }
 
+            [data-testid="stDialog"] [data-testid="stMarkdownContainer"] p,
+            [data-testid="stDialog"] div[role="dialog"] > div > div > div > p {
+                color: #1a1a1a !important;
+            }
+
             h1 {
                 font-family: 'Climate Crisis', sans-serif !important;
                 font-size: 3.5rem !important;
