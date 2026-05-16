@@ -54,12 +54,6 @@ def style_base_layout():
             .block-container {
                 padding-top:1.5rem !important;    
             }
-            [data-testid="stTextInput"] input {
-                background-color: white !important;
-                color: #1a1a1a !important;
-                border: 2px solid #ccc !important;
-                border-radius: 1rem !important;
-            }
 
             [data-testid="stTextInput"] label p {
                 color: #1a1a1a !important;
